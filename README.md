@@ -1,4 +1,4 @@
-#Repository Mata Kuliah Dasar Pemrograman by Yanuar Eka Pramudya
+# Repository Mata Kuliah Dasar Pemrograman by Yanuar Eka Pramudya
 
 Selamat datang di repositori Dasar Pemrograman! Repositori ini berisi kumpulan source code yang saya buat selama mengambil mata kuliah dasar pemrograman. Di sini, Anda akan menemukan contoh-contoh kode sederhana yang mencakup konsep-konsep dasar pemrograman yang saya pelajari selama kursus ini.
 

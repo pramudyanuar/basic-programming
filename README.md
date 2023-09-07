@@ -6,10 +6,10 @@ Selamat datang di repositori Dasar Pemrograman! Repositori ini berisi kumpulan s
 # Struktur Repositori
 Repositori ini terorganisir dengan baik untuk memudahkan navigasi. Berikut adalah struktur direktori utama:
 
-**/tugas** : Kode-kode yang terkait dengan tugas.
-**/praktikum** : Kode-kode yang terkait dengan praktikum dasar pemrograman.
-**/seslab** : Kode-kode yang terkait dengan seslab dasar pemrograman.
-**/projek-akhir** : Proyek akhir atau tugas besar yang saya kerjakan selama kursus ini.
+- **/tugas** : Kode-kode yang terkait dengan tugas.
+- **/praktikum** : Kode-kode yang terkait dengan praktikum dasar pemrograman.
+- **/seslab** : Kode-kode yang terkait dengan seslab dasar pemrograman.
+- **/projek-akhir** : Proyek akhir atau tugas besar yang saya kerjakan selama kursus ini.
 
 # Cara Menggunakan Kode
 Anda dapat menjelajahi kode-kode dalam repositori ini dengan mudah. Setiap direktori memiliki deskripsi singkat yang menjelaskan konsep dasar yang dibahas dalam materi tersebut. Untuk menjalankan kode, pastikan Anda memiliki lingkungan pengembangan yang sesuai untuk bahasa pemrograman yang digunakan dalam masing-masing kode.
